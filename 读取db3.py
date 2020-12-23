@@ -1,4 +1,5 @@
 # coding=UTF-8
+#读取db3数据库，并写入excel
 import os
 from tqdm import tqdm
 import openpyxl
